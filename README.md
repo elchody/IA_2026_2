@@ -13,4 +13,3 @@ Este repositorio contiene los entregables correspondientes a la Evaluación Prá
 Entregables (Directorio E2-Regresión):
 - E2.ipynb: Script/Notebook ejecutable con el pipeline completo de datos y modelado.
 - Presentacion_E2_MRR.pptx: Presentación ejecutiva orientada a la toma de decisiones.
-- clientes_mrr_dataset.csv: Dataset base utilizado en el proyecto.
